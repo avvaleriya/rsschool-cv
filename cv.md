@@ -36,7 +36,7 @@ btnSubmit.addEventListener("click", (event) => {
 * [Stepic](https://stepik.org/)
     + Python generation
 ## **Languages**
-* **Belorussian** - native speaker,
+* **Belarusian** - native speaker,
 * **Russian** - native speaker,
 * **English** - intermediate (B1),
 * **French** - intermediate (B1),
