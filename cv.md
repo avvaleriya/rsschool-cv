@@ -1,24 +1,19 @@
 # **Valeriya Avdejchik** 
----
 ## **My Contact Info**: 
----
-* ### **Phone**: +375 29 676 39 59
-* ### **E-mail**: lera.avdejchik@gmail.com
-* ### **Telegram**: @avvalerie
-* ### **[GitHub]**: (https://github.com/avvaleriya)
-* ### **[Linkedin]**: (https://www.linkedin.com/in/valeriya-avdejchik-1357941b2/)
+* **Phone**: +375 29 676 39 59
+* **E-mail**: lera.avdejchik@gmail.com
+* **Telegram**: @avvalerie
+* **GitHub**: [avvaleriya](https://github.com/avvaleriya)
+* **Linkedin**: [Valeriya Avdejcik](https://www.linkedin.com/in/valeriya-avdejchik-1357941b2/)
 ## **About Me** 
----
 I work as a category manager for cosmetics. I like to learn something new, that's why I study languages. I want to improve my skills and become a Front-end developer.
 ## **Skills**
----
-* ### HTML
-* ### CSS
-* ### JavaScript
-* ### Python
-* ### Git/GitHub
+* HTML
+* CSS
+* JavaScript
+* Python
+* Git/GitHub
 ## **Code Example**
----
 ```
 btnSubmit.addEventListener("click", (event) => {
   event.preventDefault();
@@ -34,18 +29,16 @@ btnSubmit.addEventListener("click", (event) => {
 });
 ```
 ## **Education**
----
-* ### Belarusian State Technological University
-    + #### Certification Engineer
-* ### Belarusian State University
-    + #### Biopharmachemist
-* ### [https://stepik.org/] 
-    + #### Python generation
+* Belarusian State Technological University
+    + Certification Engineer
+* Belarusian State University
+    + Biopharmachemist
+* [Stepic](https://stepik.org/)
+    + Python generation
 ## **Languages**
----
-* ### **Belorussian** - native speaker,
-* ### **Russian** - native speaker,
-* ### **English** - intermediate (B1),
-* ### **French** - intermediate (B1),
-* ### **Deutsch** - elementary (A1),
+* **Belorussian** - native speaker,
+* **Russian** - native speaker,
+* **English** - intermediate (B1),
+* **French** - intermediate (B1),
+* **Deutsch** - elementary (A1),
 
