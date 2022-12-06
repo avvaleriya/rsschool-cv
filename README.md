@@ -1,1 +1,1 @@
-# rsschool-cv
+https://avvaleriya.github.io/rsschool-cv/cv
