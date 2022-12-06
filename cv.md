@@ -1,6 +1,6 @@
-# **Valeriya Avdejchik** <h1>
+# **Valeriya Avdejchik** 
 ===
-# **My Contact Info**: <h1>
+# **My Contact Info**: 
 ===
 * **Phone**: +375 29 676 39 59
 * **E-mail**: lera.avdejchik@gmail.com
